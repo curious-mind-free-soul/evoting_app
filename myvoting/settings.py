@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-g=jzhv5zv8nxar2z0jpv#jv-$o*p(+e597*wgkau$gc&7v*m4e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = os.environ.get('DEBUG', 'True')=="True"
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', "my-voting-app-xfxx.onrender.com", 'seahorse-app-343h9.ondigitalocean.app','voting-app-again.onrender.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', "my-voting-app-xfxx.onrender.com", 'seahorse-app-343h9.ondigitalocean.app','voting-app-again.onrender.com','orca-app-sibyg.ondigitalocean.app']
 
 
 # Application definition
